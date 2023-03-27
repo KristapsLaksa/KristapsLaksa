@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kristaps</h1>
 <h3 align="center">A passionate developer from Latvia</h3>
-<br>
-- I'm currently working on news aggregator website.
-<br>
+
 - 📫 How to reach me **ljaksa.kristaps@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
